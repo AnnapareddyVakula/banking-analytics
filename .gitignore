@@ -1,0 +1,23 @@
+# Large data files
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.db
+data/raw/*.zip
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db.venv/
+*.pbix
+*.twbx
+*.xlsx
+data/raw/archive/
+*.gz
+*.zip
