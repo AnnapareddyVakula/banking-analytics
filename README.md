@@ -36,8 +36,9 @@ Built a full-stack banking analytics pipeline processing **2.26 million real-wor
 - **Geographic insight:** California led loan volume at 101,385 loans but carried a 5.76% default rate while Illinois (4.18%) and Washington (4.06%) showed significantly better repayment behavior
 
 ---
-
 ## 📁 Project Structure
+
+```
 banking-analytics/
 │
 ├── data/
@@ -70,7 +71,7 @@ banking-analytics/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🛠️ Tools & Technologies
