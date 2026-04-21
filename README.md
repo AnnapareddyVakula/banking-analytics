@@ -192,12 +192,12 @@ Place `accepted_2007_to_2018Q4.csv` in `data/raw/`
 
 ## 👤 Author
 
-Vakula Annapareddy
+**Vakula Annapareddy**
 Data Analyst | Toronto, Ontario
-LinkedIn: www.linkedin.com/in/vakula-annapareddy
-GitHub: https://github.com/AnnapareddyVakula
-Email: vakulaa2k@gmail.com
 
+- 🔗 LinkedIn: [linkedin.com/in/vakula-annapareddy](https://www.linkedin.com/in/vakula-annapareddy)
+- 💻 GitHub: [github.com/AnnapareddyVakula](https://github.com/AnnapareddyVakula)
+- 📧 Email: vakulaa2k@gmail.com
 ---
 
 ## 📄 License
